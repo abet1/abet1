@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 - Email: aacaro@up.edu.ph/albert.asia.caro@gmail.com
-- LinkedIn: Albert Caro (https://www.linkedin.com/in/yourprofile)
+- LinkedIn: Albert Caro ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/albert-caro-91031b23b/))
 <!--
 **abet1/abet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
