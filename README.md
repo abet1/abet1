@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Albert Caro! 👋
 
+## 🚀 About Me
+- 💻 I'm a Computer Science student specializing in Statistical Computing at University of the Philippines-Manila
+- 📚 I’m eager to learn everything related to web programming, software development, and data analysis 
+
+## 📫 Contact
+- Email: aacaro@up.edu.ph/albert.asia.caro@gmail.com
+- LinkedIn: Albert Caro (https://www.linkedin.com/in/yourprofile)
 <!--
 **abet1/abet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
